@@ -3,6 +3,9 @@
 <p> Welcome to my page! 😍  </br> I'm Tuan, an Automation Test Engineer 😎. </p>
 
 ## 💻 Languages & Tools
+<p>
+<img src="https://github.com/htuanln97/htuanln97/blob/main/selenium.png" height="40" style="vertical-align:down; margin:4px" alt="selenium">
+</p>
 
 <!--
 **htuanln97/htuanln97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
