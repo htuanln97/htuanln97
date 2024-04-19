@@ -6,6 +6,7 @@
 <p>
 <img src="https://github.com/htuanln97/htuanln97/blob/main/selenium.png" height="40" style="vertical-align:down; margin:4px" alt="selenium">
 <img src="https://github.com/htuanln97/htuanln97/blob/main/playwright.png" height="40" style="vertical-align:down; margin:4px" alt="playwright">
+  <img src="https://github.com/htuanln97/htuanln97/blob/main/appium.png" height="40" style="vertical-align:down; margin:4px" alt="appium.png">
 </p>
 
 <!--
