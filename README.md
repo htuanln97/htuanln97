@@ -2,7 +2,7 @@
 
 <p> Welcome to my page! 😍  </br> I'm Tuan, an Automation Test Engineer 😎. </p>
 
-📫 Reach me on skype **live:98ec800d1421cc2f**
+📫 Reach me on skype **live:98ec800d1421cc2f** </br>
 🌱 I’m currently learning Devops and Testing Franework
 
 ## 💻 Languages & Tools
