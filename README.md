@@ -1,9 +1,12 @@
 <h2> <img src="https://github.com/htuanln97/htuanln97/blob/main/welcome.gif" width="30" /> Hi, nice to see you. </h2>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=htuanln97&label=Profile%20views&color=0e75b6&style=flat" alt="htuanln97" /> </p>
 
 <p> Welcome to my page! 😍  </br> I'm Tuan, an Automation Test Engineer 😎. </p>
 
 📫 Reach me on skype **live:98ec800d1421cc2f** </br>
-🌱 I’m currently learning Devops and Testing Franework
+🌱 I’m currently learning **Devops and Testing Frameworks**
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=htuanln97" alt="htuanln97" /></a> </p>
 
 ## 💻 Languages & Tools
 <p>
