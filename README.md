@@ -1,6 +1,6 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1660853767/60881/meow_attention.gif?1660853767" width="30" /> Hi, nice to see you. </h2>
 
-<p> Welcome to my page!, I'm Tuan, an Automation Test Engineer </p>
+<p> Welcome to my page!  </br> I'm Tuan, an Automation Test Engineer </p>
 
 <!--
 **htuanln97/htuanln97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
