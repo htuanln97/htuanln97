@@ -2,6 +2,8 @@
 
 <p> Welcome to my page! 😍  </br> I'm Tuan, an Automation Test Engineer 😎. </p>
 
+📫 Reach me on skype **live:98ec800d1421cc2f**
+
 ## 💻 Languages & Tools
 <p>
 <img src="https://github.com/htuanln97/htuanln97/blob/main/selenium.png" height="40" style="vertical-align:down; margin:4px" alt="selenium">
