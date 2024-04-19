@@ -1,4 +1,4 @@
-<h2> <img src="https://emojis.slackmojis.com/emojis/images/1660853767/60881/meow_attention.gif?1660853767" width="30" /> Hi, nice to see you. </h2>
+<h2> <img src="https://github.com/htuanln97/htuanln97/blob/main/welcome.gif" width="30" /> Hi, nice to see you. </h2>
 
 <p> Welcome to my page! 😍  </br> I'm Tuan, an Automation Test Engineer 😎. </p>
 
