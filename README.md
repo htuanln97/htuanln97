@@ -8,6 +8,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=htuanln97" alt="htuanln97" /></a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=htuanln97&show_icons=true&locale=en&layout=compact" alt="htuanln97" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=htuanln97&show_icons=true&locale=en" alt="htuanln97" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=htuanln97&" alt="htuanln97" /></p>
+
+
 ## 💻 Languages & Tools
 <p>
 <img src="https://github.com/htuanln97/htuanln97/blob/main/selenium.png" height="40" style="vertical-align:down; margin:4px" alt="selenium">
