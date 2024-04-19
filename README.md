@@ -2,6 +2,8 @@
 
 <p> Welcome to my page!  </br> I'm Tuan, an Automation Test Engineer. </p>
 
+## 💻 Languages & Tools
+
 <!--
 **htuanln97/htuanln97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
