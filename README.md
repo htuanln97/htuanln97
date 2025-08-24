@@ -3,10 +3,10 @@
 
 <p> Welcome to my page! 😍  </br> I'm Tuan, an Automation Test Engineer 😎. </p>
 
-📫 Reach me on Microsoft Teams **** </br>
+📫 Reach me on Linkedin **** </br>
 🌱 I’m currently learning **Devops and Testing Frameworks**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=htuanln97" alt="htuanln97" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=flat" alt="htuanln97" /></a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=htuanln97&show_icons=true&locale=en&layout=compact" alt="htuanln97" /></p>
 
