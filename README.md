@@ -3,7 +3,7 @@
 
 <p> Welcome to my page! 😍  </br> I'm Tuan, an Automation Test Engineer 😎. </p>
 
-📫 Reach me on Microsoft Teams **hoangtuan.ln97@gmail.com** </br>
+📫 Reach me on Microsoft Teams **** </br>
 🌱 I’m currently learning **Devops and Testing Frameworks**
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=htuanln97" alt="htuanln97" /></a> </p>
